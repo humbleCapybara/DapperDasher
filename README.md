@@ -2,10 +2,10 @@
 Dapper Dasher is a 2D side-scrolling runner game inspired by the classic Google Dino Game — but with more style, animations, and sound! Built in C++ using the raylib library, it’s a fun and fast-paced project showcasing animation handling, collision detection, and simple physics.
 
 ## 🕹 Features
--> Animated main character (Scarfy) with smooth running and jumping
--> Multiple obstacles (Nebulae) with animated sprites
--> Parallax scrolling background layers for depth and immersion
--> Gravity and jump physics for realistic motion
+-> Animated main character (Scarfy) with smooth running and jumping 
+-> Multiple obstacles (Nebulae) with animated sprites 
+-> Parallax scrolling background layers for depth and immersion 
+-> Gravity and jump physics for realistic motion 
 -> Victory and loss conditions with replay options
 -> Integrated sound effects and background music
 
@@ -40,7 +40,7 @@ Textures: Scarfy and Nebula sprite sheets (from raylib examples)
 Sounds: Custom jump, victory, and loss sound effects
 Background Music: Looping track for atmosphere
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 -> Add power-ups and bonuses
 -> Introduce multiple levels or biomes
 -> High score tracking and leaderboard
